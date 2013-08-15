@@ -1,0 +1,3 @@
+http://flash.weather.com.cn/sk2/101210101.xml
+
+http://www.weather.com.cn/data/sk/101210101.html
